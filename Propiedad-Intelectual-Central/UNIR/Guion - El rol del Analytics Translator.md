@@ -23,7 +23,7 @@ Este perfil realiza **tres funciones** dentro de cualquier organización:
 
 Las organizaciones que liderarán los mercados en los próximos años no serán aquellas que acumulen más datos, sino aquellas que construyan los puentes de comunicación más sólidos entre sus analistas y sus líderes. El _Analytics Translator_ es el arquitecto de ese puente. Muchas gracias por su atención».
 
-**Referencias** (Normativa APA 7.ª edición)
+	**Referencias** (Normativa APA 7.ª edición)
 
 **McKinsey & Company.** (2018, 17 de abril). _The new must-have role in data: The analytics translator_. McKinsey digital. [https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-must-have-role-in-data-the-analytics-translator](https://www.google.com/search?q=https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-must-have-role-in-data-the-analytics-translator)
 
