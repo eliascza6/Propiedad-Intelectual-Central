@@ -15,7 +15,7 @@ Este repositorio contiene una serie de soluciones en **SQL** desarrolladas duran
 
 ---
 
-## 🛠️ Tecnologías y Metodología
+## ## 🛠️ Tecnologías y Metodología
 * **Lenguaje:** SQL (PostgreSQL / SQL Server / MySQL)
 * **Framework de Trabajo:** ERA (Experto, Recursos, Acción)
 * **Enfoque:** Analytics Translation (Puente entre IT y Alta Dirección)
