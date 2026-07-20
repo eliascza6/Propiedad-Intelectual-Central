@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "6a299880e2543908",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +193,11 @@
   },
   "active": "dc5770219d9cb5bc",
   "lastOpenFiles": [
-    "SaaS_AgroValuador.md",
+    "[[.md",
     "README.md",
+    "Sin título.canvas",
+    "2026-07-20.md",
+    "SaaS_AgroValuador.md",
     "UNIR.md",
     "UNIR 1/Guion - El rol del Analytics Translator.md",
     "UNIR 1/CACTSUCU - E-Commerce de Cactus y Suculentas.md",
