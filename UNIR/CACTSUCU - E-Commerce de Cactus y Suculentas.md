@@ -1,4 +1,3 @@
-
 El proyecto **consiste** en una empresa nativa digital (D2C) dedicada a la propagación artesanal y comercialización en línea de cactus, suculentas de colección y especies botánicas raras. Su **objetivo** es ofrecer una experiencia de compra diferenciada mediante la integración de producción propia, comercio electrónico y estrategias de marketing digital.
 
 El principal **problema** del mercado es la insatisfacción de los clientes por los daños que sufren las plantas durante el transporte y la alta mortandad después de la compra, ocasionada por empaques inadecuados, sustratos de baja calidad y falta de orientación para su cuidado.

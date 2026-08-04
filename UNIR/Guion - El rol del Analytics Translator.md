@@ -1,4 +1,3 @@
-
 El rol del Analytics Translator: El puente entre los datos y la toma de decisiones empresariales
 
 **I. Introducción**

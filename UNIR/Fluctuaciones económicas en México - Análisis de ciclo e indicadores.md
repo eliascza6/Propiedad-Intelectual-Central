@@ -1,5 +1,3 @@
-Fluctuaciones económicas en México: Análisis de ciclo e indicadores
-
 Fuente: Instituto Nacional de Estadística y Geografía (INEGI) | Periodo: 2021-2026 
 
 Introducción
