@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "CACTSUCU - E-Commerce de Cactus y Suculentas"
             }
-          },
-          {
-            "id": "49ed9d68c1bb2cfe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +193,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "49ed9d68c1bb2cfe",
+  "active": "0516f9208d0f2745",
   "lastOpenFiles": [
     "UNIR/Fluctuaciones económicas en México - Análisis de ciclo e indicadores.md",
     "UNIR/Guion - El rol del Analytics Translator.md",
