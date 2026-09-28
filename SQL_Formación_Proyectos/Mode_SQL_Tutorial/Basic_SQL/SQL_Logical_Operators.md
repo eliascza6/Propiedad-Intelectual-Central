@@ -371,6 +371,6 @@ HERRAMIENTAS: "year_rank" BETWEEN 10 AND 20 para filtrar las filas por el rango 
 SELECT *
 FROM tutorial.billboard_top_100_year_end
 WHERE year IN (2013, 2003, 1993)  --Seleccionar los años relevantes
-AND year_rank BETWEEN 10 AND 20  --Limitar ee rank de 10-20
+AND year_rank BETWEEN 10 AND 20  --Limitar el rank de 10-20
 ORDER BY year, year_rank;
 ```
