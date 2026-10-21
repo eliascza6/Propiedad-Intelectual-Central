@@ -9,5 +9,5 @@ Glorificar a Dios mediante la administración correcta y excelente de los recurs
 *   **/SQL_Proyectos:** Ejercicios de SQL, documentados bajo el framework de traducción analítica.
 
 ## Stack Tecnológico en desarrollo
-*   **Gestión y BI:** SQL (PostgreSQL), Advanced Excel / Google Sheets, Tableau / Power BI.
+*   **Gestión y BI:** SQL (PostgreSQL), Google Sheets, Tableau.
 *   **Entorno de Trabajo:** Obsidian (Ecosistema del Conocimiento), VS Code, Git / GitHub.
