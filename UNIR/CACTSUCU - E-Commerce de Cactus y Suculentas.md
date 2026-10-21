@@ -14,5 +14,5 @@ En **conclusión**, este proyecto muestra que un negocio digital exitoso debe en
 
 # Lienzo Business Model Canvas:  E-Commerce de Cactus y Suculentas
 
-![[Pasted image 20260720072553.png]]
+![[Lienzo Business Model Canvas.png]]
 

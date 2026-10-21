@@ -11,13 +11,58 @@
             "id": "e0fce939481641d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIR/ANÁLISIS EMPRESARIAL DEL BENEFICIO,  FORMAS CUADRÁTICAS Y OPTIMIZACIÓN RESTRINGIDA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "ANÁLISIS EMPRESARIAL DEL BENEFICIO,  FORMAS CUADRÁTICAS Y OPTIMIZACIÓN RESTRINGIDA"
+            }
+          },
+          {
+            "id": "3c2335c75477193b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Tabla 1..png"
+              },
+              "icon": "lucide-image",
+              "title": "Tabla 1."
+            }
+          },
+          {
+            "id": "be727363875e03b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIR/Microeconomía - Análisis de Mercado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microeconomía - Análisis de Mercado"
+            }
+          },
+          {
+            "id": "0f06b87c2ece3a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIR/Microeconomía - Análisis de Mercado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microeconomía - Análisis de Mercado"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,13 +234,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0516f9208d0f2745",
+  "active": "0f06b87c2ece3a04",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "Pasted image 20260720072553.png",
+    "Tabla 1..png",
+    "UNIR/Microeconomía - Análisis de Mercado.md",
+    "Lienzo Business Model Canvas.png",
     "UNIR/ANÁLISIS EMPRESARIAL DEL BENEFICIO,  FORMAS CUADRÁTICAS Y OPTIMIZACIÓN RESTRINGIDA.md",
     "UNIR/CACTSUCU - E-Commerce de Cactus y Suculentas.md",
+    "Tabla 5..png",
+    "Tabla 2..png",
+    "Sin título.md",
+    "Tabla 3..png",
+    "Sin nombre",
+    "README.md",
+    "LICENSE",
     "UNIR/Fluctuaciones económicas en México - Análisis de ciclo e indicadores.md",
     "UNIR/Guion - El rol del Analytics Translator.md",
     "[[.md",
@@ -213,7 +265,6 @@
     "Propiedad-Intelectual-Central/UNIR/Guion - El rol del Analytics Translator.md",
     "Propiedad-Intelectual-Central/UNIR",
     "Propiedad-Intelectual-Central/SQL_Proyectos",
-    "Sin nombre",
     "Propiedad-Intelectual-Central/SaaS_AgroValuador"
   ]
 }
